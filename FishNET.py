@@ -12,8 +12,6 @@ st.set_page_config(
     }
 )
 
-st.sidebar.write("Sidebartext")
-
 st.title("FishNET :fish: ")
 
 st.subheader("Fisch im Netz und keine Ahnung, ob es sich um eine gefährdete Fischart handelt?")
