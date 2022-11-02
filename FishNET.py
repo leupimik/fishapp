@@ -29,7 +29,3 @@ with st.expander("Foto aufnehmen"):
     picture = st.camera_input("")
 
 st.write("")
-
-st.subheader("Dein Fisch")
-
-st.subheader("Dein Ergebniss")
